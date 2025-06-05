@@ -3,11 +3,11 @@
 **Overview**
 
 This project applies time series and machine learning models to Singapore's economic indicators with the aim of drawing insights and building models that Kenya can adapt for GDP forecasting and policy planning.
-
+---
 **Business Problem**
 
 Kenya seeks to improve its economic forecasting and policy design. This project leverages the successful economic structure of Singapore to develop forecasting models that predict Kenya's GDP based on key production-related indicators. The goal is to provide reliable GDP predictions that can inform government planning, budgeting, and investment prioritization.
-
+---
 **Business Objectives**
 
 1.Compare sectoral contributions to GDP in Singapore and Kenya to identify similarities in growth-driving industries.
@@ -17,7 +17,7 @@ Kenya seeks to improve its economic forecasting and policy design. This project 
 3.Identify High-Impact Policies Behind Singapore’s Economic Transformation
 
 4.Develop and deploy an interactive dashboard to forecast sub-sector growth andestimate their contributions to overall GDP.
-
+---
 **Datasets and Features**
 
       **Data Sources:** 
@@ -36,7 +36,7 @@ Kenya seeks to improve its economic forecasting and policy design. This project 
 
      **Key Predictors:**  manufacturing, Finance and Insurance, wholesale & retail traded, transportation & storage and education. 
 
-
+---
 
 **Tools and Libraries**
 
@@ -52,11 +52,15 @@ Kenya seeks to improve its economic forecasting and policy design. This project 
 
 •	Jupyter Notebook
 
+---
 
 **Data Cleaning and Understanding**
 
 •	Null values were filled with mean for normally distributed sectors and with median for non-normally distributed sectors
+
 •	Outliers and duplicate entries were identified and resolved
+
+---
 
 **Exploratory Data Analysis**
 
@@ -79,7 +83,7 @@ We also visualized GDP growth over time for both countries
 
  
 
-
+---
 **Pre-processing and Modeling**
 
 Our approach combined regression and time series models to predict GDP, along with clustering techniques to anticipate policy reforms within specific groups
@@ -106,6 +110,7 @@ Our approach combined regression and time series models to predict GDP, along wi
 
 •	K Means Clustering
 
+---
 
 **Model Evaluation**
 
@@ -118,7 +123,7 @@ The below was the performance of the models; With the key focus variables being 
 •	Clustering revealed year-based patterns tied to identify key strategies and policies, helping trace Singapore’s path to its current status
 
 **Policies relating to the Key Sectors;**
-
+---
 **Finance and Insurance**
 
 Cluster 1 (1960–1987):
@@ -170,17 +175,20 @@ Cluster 3 (2010–2024):
 •	Promoted smart retail (AI, AR, RFID).
 •	Provided grants for SME digitalization (e.g., Shopify, Lazada)
 
+---
 **Future Work**
 
 •	Adapt model for real Kenyan economic data.
 •	Include additional macroeconomic indicators (inflation, interest rates).
 •	Develop a real-time dashboard for policymakers.
 
+---
 **Limitations**
 
 1.	Lack of congruent data
 2.	The policy implication is subject to multiple conditions that may not directly translate tothe figures modeled
 
+---
  **Authors**
 
 •	Kirui Wilberforce 
