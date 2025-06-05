@@ -1,12 +1,16 @@
 **Modeling Economic Growth: Singapore’s Insights for Kenya**
 
+---
+
 **Overview**
 
 This project applies time series and machine learning models to Singapore's economic indicators with the aim of drawing insights and building models that Kenya can adapt for GDP forecasting and policy planning.
+
 ---
 **Business Problem**
 
 Kenya seeks to improve its economic forecasting and policy design. This project leverages the successful economic structure of Singapore to develop forecasting models that predict Kenya's GDP based on key production-related indicators. The goal is to provide reliable GDP predictions that can inform government planning, budgeting, and investment prioritization.
+
 ---
 **Business Objectives**
 
