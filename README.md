@@ -20,32 +20,37 @@ Kenya seeks to improve its economic forecasting and policy design. This project 
 
 **Datasets and Features**
 
-   **Data Sources:** 
+      **Data Sources:** 
 
-1. Singapore Department of Statistics
-2. Central Bank of Kenya – Statistics
-3. World Bank
-   
-   **Datasets:**
+        1. Singapore Department of Statistics
+        2. Central Bank of Kenya – Statistics
+        3. World Bank
+     
+     **Datasets:**
 
-•	Singapore's GDP Production & GDP vs  Debt Data (1960 -2024) - D
-•	Kenya’s production Data (2018-2022) – for sector comparison, 
-•	Kenya’s Debt vs GDP Data – from World Bank
+      •	Singapore's GDP Production & GDP vs  Debt Data (1960 -2024) - D
+      •	Kenya’s production Data (2018-2022) – for sector comparison, 
+      •	Kenya’s Debt vs GDP Data – from World Bank
 
-   **Target Variable:** `GDP (current market prices)
+     **Target Variable:** `GDP (current market prices)
 
-   **Key Predictors:**  manufacturing, Finance and Insurance, wholesale & retail traded, transportation & storage and education. 
+     **Key Predictors:**  manufacturing, Finance and Insurance, wholesale & retail traded, transportation & storage and education. 
 
 
 
 **Tools and Libraries**
 
-•	- Python
-•	- pandas, numpy
-•	- matplotlib, seaborn
-•	- scikit-learn
-•	- statsmodels (SARIMAX, VAR)
-•	- Jupyter Notebook
+•	Python
+
+•	pandas, numpy
+
+•	matplotlib, seaborn
+
+•	scikit-learn
+
+•	statsmodels (SARIMAX, VAR)
+
+•	Jupyter Notebook
 
 
 **Data Cleaning and Understanding**
