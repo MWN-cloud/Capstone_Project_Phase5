@@ -36,6 +36,7 @@ Kenya seeks to improve its economic forecasting and policy design. This project 
 
 •	**Key Predictors:**  manufacturing, Finance and Insurance, wholesale & retail traded, transportation & storage and education. 
 
+
 **Tools and Libraries**
 
 •	- Python
@@ -45,12 +46,14 @@ Kenya seeks to improve its economic forecasting and policy design. This project 
 •	- statsmodels (SARIMAX, VAR)
 •	- Jupyter Notebook
 
+
 **Data Cleaning and Understanding**
 
 •	Null values were filled with mean for normally distributed sectors and with median for non-normally distributed sectors
 •	Outliers and duplicate entries were identified and resolved
 
 **Exploratory Data Analysis**
+
 We were able to Identify top performic Sectors in Singapore i.e. wholesale trade, manufacturing, finance and insurance and transportation and storage.
 ![image](https://github.com/user-attachments/assets/30145171-b65e-4c11-99f2-dfa260fb67be)
 
