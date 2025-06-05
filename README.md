@@ -197,8 +197,14 @@ Cluster 3 (2010–2024):
  **Authors**
 
 •	Kirui Wilberforce 
+
 •	Charity Nguru
+
 •	Maureen Ngahu
+
 •	Neema Elaly
+
 •	Kiprono Bett
+
 •	Jael Kirwa
+
